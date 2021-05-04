@@ -1,4 +1,5 @@
-This is a fork from  
+This is a fork from: https://github.com/bcgov/aries-vcr
+
 
 ![Hyperledger Aries VCR](/docs/assets/aries-vcr-logo.jpg)
 
