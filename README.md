@@ -1,4 +1,5 @@
-This is a fork from: https://github.com/bcgov/aries-vcr
+This is a fork from: https://github.com/bcgov/aries-vcr  
+We are going to use this as templete to build up an Aries VCR for a University where database of students admission can be verified digitally.  
 
 
 ![Hyperledger Aries VCR](/docs/assets/aries-vcr-logo.jpg)
